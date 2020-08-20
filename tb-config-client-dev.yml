@@ -1,6 +1,6 @@
 my:
-  name: 张三
-  gender: 女
+  name: 侯瑞琪
+  gender: 小仙女
 spring:
   rabbitmq:
     host: localhost
